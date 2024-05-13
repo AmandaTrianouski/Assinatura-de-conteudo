@@ -26,12 +26,8 @@ body {
   align-items: center;
     text-align: center;
 }
-
 .container {
     height: 100vh;
-  display: grid;
- grid-template-columns: 50% 50%;
-
 }
 
 .container__botao {
@@ -40,8 +36,6 @@ body {
     padding: 1em;
     color: var(--branco-principal);
     display: block;
-  text-decoration: none;    margin-bottom: 1em;
-
 }
 .botao_secundario {
     background-color: transparent;
