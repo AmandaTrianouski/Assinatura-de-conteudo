@@ -36,7 +36,10 @@ body {
     padding: 1em;
     color: var(--branco-principal);
     display: block;
+  text-decoration: none;    
+  margin-bottom: 1em;
 }
+
 .botao_secundario {
     background-color: transparent;
     border: 2px solid var(--branco-principal)
@@ -109,6 +112,7 @@ body {
     font-size: 32px;
     color: var(--branco-principal);
 }
+
 .rodape {
     text-align: center;
     margin: 5em 3em;
