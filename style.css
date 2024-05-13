@@ -4,7 +4,6 @@
   --botao-azul: #167BF7;
   --cor-de-fundo: #00030C;
   --fonte-principal: 'Inter';
-
 }
 
 body {
@@ -13,7 +12,6 @@ body {
   font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 400;
-
 }
 
 * {
